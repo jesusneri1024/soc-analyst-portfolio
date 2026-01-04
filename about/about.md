@@ -79,3 +79,10 @@ I believe learning works best when it is:
 
 I do not aim to present myself as an expert.  
 I aim to show **how I think, how I learn, and how I improve**.
+
+## Outside of Technology
+
+Outside of technology, I train consistently in **strength training, boxing, and Brazilian Jiu-Jitsu**.
+
+These disciplines reinforce values I apply to cybersecurity and learning:
+discipline, consistency, and staying calm under pressure.
