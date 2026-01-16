@@ -1,25 +1,27 @@
 # About Me
 
-My name is **Jesus Neri**. I am a final-semester student at **Universidad Iberoamericana León**, majoring in **Interactive Digital Design**.
+My name is **Jesús Ángel Neri Hernández**.  
+I am an **Entry-Level Cybersecurity Analyst** and final-semester student at **Universidad Iberoamericana León**, majoring in **Interactive Digital Design**.
 
-While my academic background is not directly focused on cybersecurity, my interest in computing has always been broad. I enjoy understanding how systems work, from low-level concepts like hardware to higher-level systems such as software platforms and video games.
+Although my degree is not strictly cybersecurity-focused, my background is deeply technical. I have worked as a developer in multiple environments, from **Linux servers and cloud deployments** to **game engines and backend systems**.
+
+My goal is to transition fully into **defensive security and SOC operations**.
 
 ---
 
-## Why Cybersecurity and SOC
+## Why Cybersecurity & SOC
 
-My interest in cybersecurity comes from realizing how much **modern life depends on secure computer systems**.
+My interest in cybersecurity comes from understanding how **critical modern infrastructure depends on secure systems**.
 
-Financial systems, companies, and critical services rely on secure infrastructure. A failure in security can have real-world consequences, which is why defensive security and SOC work feel meaningful to me.
+Banks, companies, and essential services rely on technology that must be protected 24/7.  
+SOC work resonates with me because it combines:
 
-I am especially interested in SOC roles because they combine:
+- Technical investigation
+- Real-time decision making
+- Clear procedures
+- Documentation and reporting
 
-- Technical analysis
-- Real-time problem solving
-- Clear processes
-- Structured documentation
-
-I enjoy breaking down complex problems and understanding them in the **simplest and most practical way possible**.
+I enjoy breaking down complex problems and understanding them in the **most practical way possible**.
 
 ---
 
@@ -27,62 +29,107 @@ I enjoy breaking down complex problems and understanding them in the **simplest 
 
 I am currently training through the **SOC Analyst Path at Hack The Box Academy**.
 
-My current routine:
+My routine:
 
-- Study and practice around **1.5 hours per day**
-- Train **5 days per week**
-- Document what I learn, what I understand, and what still feels unclear
+- ~**1.5 hours of daily study**
+- **5 days per week**
+- Continuous documentation of:
+  - What I learn
+  - What I understand
+  - What still confuses me
 
-This portfolio exists to honestly reflect that process.
+This portfolio documents that journey.
 
 ---
 
-## Technical Background
+## Professional Experience
 
-### Professional Experience (Non-Security)
+### Full-stack Web Developer Jr – Estoria Studio
 
-**Unity 3D Developer – Gato Lobo**  
-León, GTO | June 2025 – November 2025
+**December 2025 – Present**
 
-- Unity developer for the narrative-driven game _Peach Hills Division_, published on Steam and Patreon
-- Worked in a small development team using **C#**
-- Implemented gameplay systems, UI, event handling, localization, and internal tools
-- Debugged, refactored, and improved existing code
-- Collaborated with artists and designers using **Git** for version control
+- Developed web applications using **Laravel**
+- Deployed and maintained projects on **DigitalOcean**
+- Worked with **Linux servers** and basic server configuration
+- Used **Git** for version control and collaboration
+- Debugged and improved existing systems
 
-This experience helped me develop:
+This role strengthened my understanding of:
 
-- Strong debugging skills
-- Logical and structured thinking
-- Comfort working with complex systems
-- Clear technical communication
+- Server environments
+- Deployment pipelines
+- System reliability
+- Real-world production issues
+
+---
+
+### Unity 3D Developer – Gato Lobo
+
+**June 2025 – November 2025**
+
+- Developer for the game _Peach Hills Division_ (Steam & Patreon)
+- Built complex **C# systems**
+- Debugged runtime issues and edge cases
+- Worked with asynchronous systems (coroutines)
+- Used Git-based workflows and code reviews
+
+This helped me develop:
+
+- Analytical debugging mindset
+- Structured problem solving
+- Comfort with large codebases
+
+---
+
+## Security Projects
+
+### SOC Analyst Portfolio (2026)
+
+- Alert triage and log analysis labs
+- Incident handling documentation
+- Basic **Sigma & YARA rules**
+- Simulated incident reports
+- Focus on:
+  - Detection
+  - Triage
+  - Impact assessment
+  - Reporting
 
 ---
 
 ## What I Am Looking For
 
-I am looking for an **entry-level SOC Analyst (L1)** position, ideally **remote**, where I can:
+An **Entry-Level SOC Analyst (L1)** position (preferably remote) where I can:
 
 - Apply defensive security fundamentals
-- Learn from real-world security events
-- Grow into more advanced blue team roles over time
+- Learn from real incidents
+- Grow into advanced blue-team roles
 
 ---
 
 ## Learning Philosophy
 
-I believe learning works best when it is:
+I believe learning should be:
 
 - Practical
 - Documented
 - Incremental
 
-I do not aim to present myself as an expert.  
-I aim to show **how I think, how I learn, and how I improve**.
+I do not claim to be an expert.  
+I aim to show **how I think, learn, and improve**.
 
-## Outside of Technology
+---
 
-Outside of technology, I train consistently in **strength training, boxing, and Brazilian Jiu-Jitsu**.
+## Outside of Tech
 
-These disciplines reinforce values I apply to cybersecurity and learning:
-discipline, consistency, and staying calm under pressure.
+I train consistently in:
+
+- Strength training
+- Boxing
+- Brazilian Jiu-Jitsu
+
+These disciplines reinforce values I apply to cybersecurity:
+
+- Discipline
+- Consistency
+- Staying calm under pressure
