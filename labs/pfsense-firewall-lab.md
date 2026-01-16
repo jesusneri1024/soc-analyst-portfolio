@@ -73,3 +73,6 @@ This lab focuses on understanding firewall fundamentals and basic network segmen
 ## Status
 
 In Progress
+
+![Pfsense](../assets/pfsense.png)
+![Pfsense](../assets/pfsense_installation.JPG)
