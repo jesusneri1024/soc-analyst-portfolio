@@ -47,7 +47,7 @@ assets/               Images and diagrams
 - Experience working in collaborative environments using **Git**
 - Strong problem-solving and debugging mindset
 
-Extended background available in `about/about.md`.
+Extended background available in [about/about.md](about/about.md)
 
 ---
 
