@@ -97,6 +97,50 @@ This helped me develop:
 
 ---
 
+## Technical Skills
+
+- Linux (CLI, permissions, processes, logs)
+- Networking fundamentals (TCP/IP, DNS, HTTP)
+- Cloud basics (DigitalOcean deployments)
+- Git & GitHub
+- Python (scripting & automation)
+- SQL fundamentals
+- C#, C++, JavaScript
+
+---
+
+## Selected Technical Projects
+
+### MyEngine – C++ / OpenGL
+
+- Built a modular graphics engine template using modern OpenGL
+- Designed core engine architecture (Application, InputManager, Camera, Shader)
+- Implemented 3D model loading and real-time rendering
+- Focused on performance, debugging, and clean architecture
+
+> This project strengthened my understanding of:
+>
+> - Low-level systems
+> - Memory management
+> - Debugging complex runtime issues
+
+---
+
+### SynapseRunner – Unity / C#
+
+- Developed a first-person endless runner with procedural generation
+- Implemented core gameplay systems and progression mechanics
+- Worked with Git workflows and collaborative development
+- Debugged gameplay edge cases and performance issues
+
+> This project reinforced:
+>
+> - System design
+> - Event-driven programming
+> - Testing and iteration
+
+---
+
 ## What I Am Looking For
 
 An **Entry-Level SOC Analyst (L1)** position (preferably remote) where I can:
